@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet work\\Login-SignUp-Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45083CFA-9F20-46EE-85FF-238818D81845}|Login-SignUp-Form\\Login-SignUp-Form.csproj|d:\\dotnet work\\login-signup-form\\login-signup-form\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45083CFA-9F20-46EE-85FF-238818D81845}|Login-SignUp-Form\\Login-SignUp-Form.csproj|solutionrelative:login-signup-form\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45083CFA-9F20-46EE-85FF-238818D81845}|Login-SignUp-Form\\Login-SignUp-Form.csproj|d:\\dotnet work\\login-signup-form\\login-signup-form\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45083CFA-9F20-46EE-85FF-238818D81845}|Login-SignUp-Form\\Login-SignUp-Form.csproj|solutionrelative:login-signup-form\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45083CFA-9F20-46EE-85FF-238818D81845}|Login-SignUp-Form\\Login-SignUp-Form.csproj|d:\\dotnet work\\login-signup-form\\login-signup-form\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45083CFA-9F20-46EE-85FF-238818D81845}|Login-SignUp-Form\\Login-SignUp-Form.csproj|solutionrelative:login-signup-form\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45083CFA-9F20-46EE-85FF-238818D81845}|Login-SignUp-Form\\Login-SignUp-Form.csproj|d:\\dotnet work\\login-signup-form\\login-signup-form\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45083CFA-9F20-46EE-85FF-238818D81845}|Login-SignUp-Form\\Login-SignUp-Form.csproj|solutionrelative:login-signup-form\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45083CFA-9F20-46EE-85FF-238818D81845}|Login-SignUp-Form\\Login-SignUp-Form.csproj|d:\\dotnet work\\login-signup-form\\login-signup-form\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45083CFA-9F20-46EE-85FF-238818D81845}|Login-SignUp-Form\\Login-SignUp-Form.csproj|solutionrelative:login-signup-form\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\DotNet work\\Login-SignUp-Form\\Login-SignUp-Form\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Login-SignUp-Form\\Views\\Home\\Register.cshtml",
+              "ToolTip": "D:\\DotNet work\\Login-SignUp-Form\\Login-SignUp-Form\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Login-SignUp-Form\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T07:08:13.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DotNet work\\Login-SignUp-Form\\Login-SignUp-Form\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Login-SignUp-Form\\Models\\User.cs",
+              "ToolTip": "D:\\DotNet work\\Login-SignUp-Form\\Login-SignUp-Form\\Models\\User.cs",
+              "RelativeToolTip": "Login-SignUp-Form\\Models\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:38:31.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\DotNet work\\Login-SignUp-Form\\Login-SignUp-Form\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Login-SignUp-Form\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\DotNet work\\Login-SignUp-Form\\Login-SignUp-Form\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "Login-SignUp-Form\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T06:35:11.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\DotNet work\\Login-SignUp-Form\\Login-SignUp-Form\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Login-SignUp-Form\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\DotNet work\\Login-SignUp-Form\\Login-SignUp-Form\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Login-SignUp-Form\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T05:30:50.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DotNet work\\Login-SignUp-Form\\Login-SignUp-Form\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Login-SignUp-Form\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DotNet work\\Login-SignUp-Form\\Login-SignUp-Form\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Login-SignUp-Form\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAwFsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:48:32.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
